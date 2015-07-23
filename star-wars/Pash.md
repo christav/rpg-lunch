@@ -3,7 +3,7 @@
 #### Human Smuggler (Pilot) played by Chris
 | Soak Value | Wounds  | Strain  | Defense | XP        |
 | :--------: | :-----: | :-----: | :-----: | :-------: |
-| 4          | 0 of 13 | 0 of 12 | 0       | 10 of 140 |
+| 4          | 0 of 13 | 0 of 12 | 0       | 10 of 150 |
 
 #### Characteristics
 | Brawn | Agility | Intellect | Cunning | Willpower | Presence |
@@ -13,7 +13,7 @@
 #### Skills
 | Skill                      | Career?        | Rank |
 | -------------------------- | :------------: | ---: |
-| Astrogation (Int)          | ✓              |  0   |
+| Astrogation (Int)          | ✓              |  1   |
 | Charm (Pr)                 |                |  1   |
 | Coordination (Will)        | ✓              |  0   |
 | Deception (Cun)            | ✓              |  1   |
@@ -24,7 +24,7 @@
 | Piloting–Space (Ag)        | ✓              |  2   |
 | Ranged–Light (Ag)          |                |  1   |
 | Skullduggery (Cun)         | ✓              |  0   |
-| Streetwise (Cun)           | ✓              |  0   |
+| Streetwise (Cun)           | ✓              |  1   |
 | Vigilance (Will)           | ✓              |  1   |
 
 #### Talents (Pilot)
